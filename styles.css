@@ -45,7 +45,7 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background-image: url('https://i.imgur.com/eq0jv1G.png'), radial-gradient(circle at 30% 70%, #2a1340, #0c0b0e);
+   
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: overlay;
