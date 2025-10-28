@@ -19,7 +19,7 @@ const BOLETOS_VENDIDOS = [
     // Agrega aquí los números de boletos vendidos
     // Ejemplo cuando vendas:
     // [5, 12, 23, 45, 67]
-    10
+    10,11,7,18,9,17,67
 ];
 // ============================================
 
