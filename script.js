@@ -333,7 +333,9 @@ const PASSWORD_SORTEO = "NOVA2024";
 // Solo agrega los números separados por comas
 // Ejemplo: [5, 12, 23, 45, 67]
 // ============================================
-const BOLETOS_VENDIDOS = [10, 11, 7, 18, 9, 17, 67, 77, 14, 16, 100, 23, 75, 12, 66];
+const BOLETOS_VENDIDOS = [
+  10, 11, 7, 18, 9, 17, 67, 77, 14, 16, 100, 23, 75, 12, 66, 86, 98,
+];
 // ============================================
 
 // Estado de la aplicación
